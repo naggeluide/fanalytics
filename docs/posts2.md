@@ -1,7 +1,7 @@
 ---
-title: Post Archive 2
+title: Post Archive 
 layout: posts
-permalink: /posts2/
+permalink: /posts/
 show_excerpts: true
 entries_layout: list
 ---
