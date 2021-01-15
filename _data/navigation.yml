@@ -2,15 +2,15 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
 - title: Categories
   url: /categories/
-# - title: Tags
-#   url: /tags/
 - title: Fandoms
   url: /fandoms/
 - title: Search
   url: /search/
+  # - title: Posts
+#   url: /posts/
+# - title: Tags
+#   url: /tags/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
