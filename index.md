@@ -5,6 +5,4 @@ show_excerpts: true
 entries_layout: list
 ---
 
-test content
-
-will this trigger a deployment now?
+Like most of my fanfics, this website is a work in progress.
