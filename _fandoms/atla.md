@@ -1,6 +1,6 @@
 ---
 title: "Avatar: The Last Airbender"
-layout: page
+comments: false
 image: 
   path: /images/atla_logo.png
   thumbnail: /images/atla_logo.png
