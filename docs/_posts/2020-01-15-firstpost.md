@@ -1,7 +1,7 @@
 ---
 title: "It's canon, baby! Effect of BNHA Chapter 290"
 categories:
-  - bnha
+  - posts
 tags:
   - bnha
   - bnha 290
