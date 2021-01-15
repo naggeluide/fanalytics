@@ -47,8 +47,8 @@ feed:
 #search_full_content: false
 
 # Taxonomy pages
-#category_archive_path: "/categories/#"
-#tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -62,11 +62,11 @@ feed:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# plugins:
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-#   - jekyll-feed
-#   - jekyll-paginate
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
 
 # Site Author
 author:
