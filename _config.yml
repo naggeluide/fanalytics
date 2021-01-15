@@ -12,8 +12,7 @@ footer_links:
     icon: fab fa-github-square
   - title: AO3
     url: https://archiveofourown.org/users/naggeluide
-    icon: https://icomoon.io/iconsabf18a1/4/57.svg
-
+    icon: images/ao3logo.png
 locale: en-US
 title: "Visualizing AO3 Data"
 description: "Exploring fandom and related topics through data science"
