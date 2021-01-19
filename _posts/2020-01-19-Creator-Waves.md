@@ -17,7 +17,7 @@ Take a look here and tell me what you see!
 
 I’ve divided the “waves” here into a few categories - “On Air”, when ATLA was airing for the first time, “Pre-LOK”, the time between ATLA and LOK, the “LOK era” which is self-explanatory, and then every year individually after that. A creator is assigned into a wave based on the date of their earliest fandom work (due to the way AO3 works, this isn’t always the date they published their first work, but rather the date this work was last updated). 
 
-Once the creators are assigned to their groups, the colors are used to track any additional works they produce in the fandom. Such works are counted up per week, which explains the small local variations in these waves. I’ve marked a few key dates on the graph as well - one or two of which might explain the 2020 boom ;)
+Once the creators are assigned to their groups, the colors are used to track any additional works they produce in the fandom. Such works are counted up per month, which explains the small local variations in these waves. I’ve marked a few key dates on the graph as well - one or two of which might explain the 2020 boom ;)
 
 The ATLA Renaisance of 2020 brought almost 10x the amount of new creators to the fandom as any other year! How many of these fanwork creators will be around in a couple years? Well, judging from previous waves, it does seem that contributions from creators who entered a fandom die off to a trickle come the next year. The bunch that entered during the LOK era seem to still be contributing consistently however, and there’s a definite resurgence of the OG fans coming back to the fandom, as you can see from the little blue-purple bump in the year 2020. 
 
