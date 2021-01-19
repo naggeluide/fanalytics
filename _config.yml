@@ -1,5 +1,5 @@
 remote_theme: mmistakes/so-simple-theme
-#google_analytics: UA-186964169-1
+google_analytics: UA-186964169-1
 skin: "/assets/css/skins/default.css"
 mathjax:
   enable: true
